@@ -59,7 +59,6 @@ DB 도 Private subnet에 있어서 직접 접속은 안됩니다.
 - Public DNS : ktds-db2.cznz2ugarinh.ap-northeast-2.rds.amazonaws.compgAdmin4.exe
 - Port : 5432
 - ID : postgres
-- pw : Test8080!
 
 그리고 SSH 터널링을 위해 아래 정보 설정도 필요합니다.
 
