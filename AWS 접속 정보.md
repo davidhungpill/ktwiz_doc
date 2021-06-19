@@ -22,7 +22,7 @@ web(서버1번)은 AWS의 public subnet에 있으므로 아래 정보로 SSH 접
 
 (비번 및 인증서는 slack으로 공유 하겠습니다.)
 
-![image-20210619165544343](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20210619165544343.png)
+![image-20210619165544343](.\src\image-20210619165544343.png)
 
 
 
@@ -68,9 +68,9 @@ DB 도 Private subnet에 있어서 직접 접속은 안됩니다.
 - Username : centos
 - authentication : identify file (파일을 slack으로 공유할 pem 파일 선택)
 
-![image-20210619171632599](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20210619171632599.png)
+![image-20210619171632599](.\src\image-20210619171632599.png)
 
-![image-20210619171655292](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20210619171655292.png)
+![image-20210619171655292](.\src\image-20210619171655292.png)
 
 위와 같이 설정하면 SSH로 WEB(서버1번)에 접속한 상태에서만 pgadmin을 통한 접속이 가능합니다.
 
