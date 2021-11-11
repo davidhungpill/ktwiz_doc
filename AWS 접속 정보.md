@@ -56,7 +56,7 @@ DB 도 Private subnet에 있어서 직접 접속은 안됩니다.
 
 실행 후  아래 정보로 접속이 가능합니다.
 
-- Public DNS : ktds-db2.cznz2ugarinh.ap-northeast-2.rds.amazonaws.compgAdmin4.exe
+- Public DNS : ktds-db2.cznz2ugarinh.ap-northeast-2.rds.amazonaws.com
 - Port : 5432
 - ID : postgres
 
